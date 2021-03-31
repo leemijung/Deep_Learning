@@ -1,2 +1,2 @@
-"# Deep_Learning" 
- ##2021년 1학기 심층학습
+# Deep_Learning
+### 2021-1 심층학습
